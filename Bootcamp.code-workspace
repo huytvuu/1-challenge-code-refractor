@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\UCD-VIRT-BO-FSF-PT-03-2022-U-B\\Bootcamp"
+		},
+		{
+			"name": "UCD-VIRT-BO-FSF-PT-03-2022-U-B",
+			"path": "..\\..\\..\\UCD-VIRT-BO-FSF-PT-03-2022-U-B\\UCD-VIRT-BO-FSF-PT-03-2022-U-B"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.associations": {
+			"stdlib.h": "c"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "UCD-VIRT-BO-FSF-PT-03-2022-U-B"
+	}
+}
